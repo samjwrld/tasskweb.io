@@ -482,7 +482,7 @@ const Home: React.FC = () => {
                      <Mail className="text-gold-500 mt-1 group-hover:drop-shadow-[0_0_8px_rgba(197,160,89,0.8)] transition-all" size={20} />
                      <div>
                         <p className="text-xs uppercase tracking-widest text-emerald-400 mb-1">Email Us</p>
-                        <p className="text-xl text-white group-hover:text-gold-400 transition-colors">contact@tassk.in</p>
+                        <p className="text-xl text-white group-hover:text-gold-400 transition-colors">contact@tassk.co.in</p>
                      </div>
                   </div>
                   <div className="flex items-start gap-4 group">
